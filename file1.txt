@@ -18,3 +18,5 @@ change to work on cr1 8
 
 Halfdone work.
 on remote master by teamate on cr2
+for WI9 on local master to check fetch befor push
+ 

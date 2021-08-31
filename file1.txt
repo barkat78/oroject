@@ -1,5 +1,6 @@
-welcome to git!!!!
-hello
-work realted 2
-difference 
+welcome to git !!!!
+hello-
+work realted 2-
+difference -
 change to fix the bug1
+ change for work 4 by teammate

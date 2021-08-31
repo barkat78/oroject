@@ -6,10 +6,13 @@ difference -
 change to fix the bug1
  change for work 4 by teammate
 
+
 1welcome to git !!!!
-1hello.-
-1work realted 2.-
-1difference -
-1change to fix the bug1.
-1change to fix bug2.
-change 8-for new work
+1hello.-8
+1work realted 2.-8
+1difference -8
+1change to fix the bug1.8
+1change to fix bug2.8
+change 8-for new work8
+change to work on cr1 8
+

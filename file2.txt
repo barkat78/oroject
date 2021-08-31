@@ -1,3 +1,4 @@
 add multiple files
 
 check simple push
+check pull frm remote master to local master for WI8
